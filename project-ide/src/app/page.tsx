@@ -14,7 +14,7 @@ export default function HomePage() {
           <SignUpButton />
         
       </SignedOut>
-      <UserButton/>
+      
       <SignedIn>
         
           <UserButton />
